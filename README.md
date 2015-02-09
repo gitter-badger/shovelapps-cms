@@ -1,5 +1,7 @@
 #Shovel apps CMS 
 ### **Open Source mobile App Maker**.
+
+[![Join the chat at https://gitter.im/shovelapps/shovelapps-cms](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/shovelapps/shovelapps-cms?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [http://shovelapps.org](http://shovelapps.org)
 
 
